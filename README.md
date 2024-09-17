@@ -1,3 +1,4 @@
+# GitHub主页美化
 [Shields.io](https://shields.io/)是一个非常流行的徽章生成网站。你可以创建各类徽章，显示项目状态、GitHub 统计、语言、授权协议等信息。
 
 [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)是一个开源项目，用于生成用户的 GitHub 统计数据图表，如贡献次数、语言比例等，支持多种主题和自定义样式。
