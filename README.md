@@ -1,4 +1,10 @@
-# GitHub主页美化
+## 😍GitHub无名数据
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengzihao2002&show_icons=true&theme=catppuccin_latte)
+
+## 👇GitHub冷门仓库
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pengzihao2002&repo=EasyNotes)](https://github.com/pengzihao2002/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pengzihao2002&repo=pengzihao2002)](https://github.com/pengzihao2002/github-readme-stats)
+## 🧭GitHub主页美化
 [Shields.io](https://shields.io/)是一个非常流行的徽章生成网站。你可以创建各类徽章，显示项目状态、GitHub 统计、语言、授权协议等信息。
 
 [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)是一个开源项目，用于生成用户的 GitHub 统计数据图表，如贡献次数、语言比例等，支持多种主题和自定义样式。
@@ -18,3 +24,5 @@
 [Carbon](https://carbon.now.sh/) 允许你创建美观的代码片段图片，可以用来展示项目的核心代码片段。
 
 [Wakatime](https://wakatime.com/)是一个提供编程活动和生产力分析的服务平台，能够自动跟踪你编写代码的时间、使用的编程语言、项目进度等。
+
+[Emojiguide](https://emojiguide.org/)这是一个包含搜索、含义、图片和代码的终极Emoji 指南。
